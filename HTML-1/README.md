@@ -117,4 +117,5 @@
 
 
 ## Vježba
-[GitHub Classroom](https://classroom.github.com/classrooms/61147777-udruga-studenata-racunarstva-internship)
+- [HTML-1 repo](https://github.com/Volki312/HTML-1)
+- [HTML-1 invite link](https://classroom.github.com/a/EuUL3-im)
