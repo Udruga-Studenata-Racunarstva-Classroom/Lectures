@@ -22,5 +22,5 @@
 
 
 ## Vježba
-- [HTML-1 repo](https://github.com/Volki312/HTML-2)
-- [HTML-1 invite link](https://classroom.github.com/a/7A9hZ0Su)
+- [HTML-2 repo](https://github.com/Volki312/HTML-2)
+- [HTML-2 invite link](https://classroom.github.com/a/7A9hZ0Su)
