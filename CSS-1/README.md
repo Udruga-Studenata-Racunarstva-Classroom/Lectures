@@ -62,5 +62,5 @@ https://dev.to/emmabostian/css-specificity-1kca
   - Ctrl + Shift + [ / ] - Fold/unfold (collapse/uncollapse) region
 
 ## Vježba
-- [HTML-1 repo](https://github.com/Volki312/HTML-1)
-- [HTML-1 invite link](https://classroom.github.com/a/EuUL3-im)
+- Zadatak preko sata (http://flukeout.github.io/) nakon selectora
+- Vjezba za domaci na https://classroom.github.com/a/2zevo3oG
