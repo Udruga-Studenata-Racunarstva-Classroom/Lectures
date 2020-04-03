@@ -1,0 +1,46 @@
+/*+++++BASE+++++*/
+* {
+  margin: 0;
+  padding: 0;
+  text-rendering: optimizeLegibility;
+  box-sizing: border-box;
+  font-family: monospace, sans-serif;
+}
+
+
+/*+++++NAVIGATION+++++*/
+.navbar {
+  margin-bottom: 20px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111;
+}
+
+
+/*+++++JUMBOTRON+++++*/
+.jumbotron {
+  width: fit-content;
+  margin: 0 auto;
+  padding: 15px;
+  background-color: lightslategray;
+}
+.jumbotron h1 {
+  margin-bottom: 15px;
+}
