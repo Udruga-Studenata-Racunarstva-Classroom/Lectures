@@ -1,25 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="box-model.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
   <title>Primjer</title>
 </head>
+
 <body>
   <header>
     <nav class="navbar">
-      <ul>
-        <li><a class="active" href="#home">Home</a></li>
-        <li><a href="#news">News</a></li>
-        <li><a href="#contact">Contact</a></li>
-        <li><a href="#about">About</a></li>
+      <ul class="lista-dobra">
+        <li><span><a class="active list-element" href="#home" id="first-list-element">Home</a></span></li>
+        <li><a href="#news" class="list-element">News</a></li>
+        <li><a href="#contact" class="list-element">Contact</a></li>
+        <li><a href="#about" class="list-element">About</a></li>
       </ul>
     </nav>
     <div class="jumbotron">
       <h1>Ovo je Naslov glavnog sadrzaja</h1>
-      <p>Ovo je mali subtext koji pojasnjava naslov</p>
+      <p>Ovo je mali subtext koji pojasnjava naslov <a href="#">primjer</a></p>
+      <input type="text"></input>
+    </div>
+    <div style="display: inline-block; width: 100px;">
+      <h3>asdas</h3>
+      <h2>hallo</h2>
+      <p>ovo je brat</p>
     </div>
   </header>
   <main>

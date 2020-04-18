@@ -7,7 +7,6 @@
   font-family: monospace, sans-serif;
 }
 
-
 /*+++++NAVIGATION+++++*/
 .navbar {
   margin-bottom: 20px;
@@ -33,14 +32,44 @@ li a:hover {
   background-color: #111;
 }
 
+#first-list-element {
+   color: yellow;
+}
+
+.list-element {
+  color: green;
+}
+
+.list-element:focus {
+  cursor: pointer;
+  background-color: red;
+}
+
+.lista-dobra li:last-child {
+  background-color: blue;
+}
+p::first-letter {
+  color: pink;
+  font-size: 300%;
+}
 
 /*+++++JUMBOTRON+++++*/
 .jumbotron {
-  width: fit-content;
+  width: 50vw;
   margin: 0 auto;
   padding: 15px;
   background-color: lightslategray;
+  border: 2px solid black;
+  font-size: 25px;
 }
 .jumbotron h1 {
   margin-bottom: 15px;
+  font-size: 200%;
+}
+
+input[type=text] {
+  height: 300px;
+}
+h2 ~ p {
+  color: yellow;
 }
