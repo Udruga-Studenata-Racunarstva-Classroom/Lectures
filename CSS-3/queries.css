@@ -1,0 +1,24 @@
+@media only screen and (max-width: 1140px){
+  html {
+    font-size: 20px;
+  }
+  .column-1-of-3{
+    flex: 1 0 50%;
+  }
+  .column-2-of-3{
+    flex: 1 0 50%;
+  }
+
+}
+
+@media only screen and (max-width: 768px){
+  html {
+    font-size: 18px;
+  }
+  .column-1-of-3{
+    flex: 1 0 auto;
+    width: 100%;
+  }
+
+}
+
