@@ -10,6 +10,7 @@
 - <a href="https://www.w3schools.com/css/css_font.asp">Fonts</a>
 - <a href="https://meyerweb.com/eric/tools/css/reset/">Reset CSS</a>
 - <a href="https://necolas.github.io/normalize.css/">Normalize</a>
+- https://www.w3schools.com/colors/colors_hsl.asp
 
 ## Color
 - <a href="https://www.w3schools.com/cssref/css_colors_legal.asp">Color Values</a>
