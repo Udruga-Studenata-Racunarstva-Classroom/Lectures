@@ -1,9 +1,12 @@
 # HTML-1
+
 ## Git
-### Naredbe
+
+### Commands
+
 - `git init` - initialize a local repo
 - `git add .` - stage (track) all untracked files for a commit
-- `git commit ` - commit all staged files
+- `git commit` - commit all staged files
 - `git commit --amend` - squash a new commit with the last **local** commit
 - `git push origin branch-name` - push commits from local branch to a remote *origin branch-name*
 - `git merge branch-name` - join local *branch-name* development history with active local branches history
@@ -14,29 +17,23 @@
 - `git status` - list staged, unstaged and untracked files
 - `git log` - log commit history
 
-### Zastavice
+### Flags
+
 - `-a` - index all untracked files
 - `.` - index all untracked files
 - `-m` - message
 - `-u` - upstream
 
-### Ostalo
+### Other
+
 - **.gitignore** - list all files and folders that you don't want your git repo to index
-
-
-### Linkovi:
-
-- [Atlassian git cheatsheet](https://www.atlassian.com/dam/jcr:e7e22f25-bba2-4ef1-a197-53f46b6df4a5/SWTM-2088_Atlassian-Git-Cheatsheet.pdf)
-- [GitHub git cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
-- [.gitignore intro](https://guide.freecodecamp.org/git/gitignore/)
-- [git download link](https://git-scm.com/downloads)
-
 
 ## Visual Studio Code
 
 ### Panel - **Ctrl-J**
 
 ### Activity Bar
+
 - Explorer - **Ctrl + Shift + E**
 - Search - **Ctrl + Shift + F**
 - Source Control - **Ctrl + Shift + G**
@@ -44,11 +41,13 @@
 - Extensions - **Ctrl + Shift + X**
 
 ### Side Bar
+
 - Open preview - **Ctrl + Shift + V**
 - Open to the side - **Ctrl + Enter**
 - ...
 
 ### Status Bar
+
 - Warnings
 - Issues
 - CRLF/LF
@@ -62,22 +61,14 @@
 
 ### Minimap
 
-...
-
-### Linkovi:
-
-- [VSC Cheatsheet](https://code.visualstudio.com/docs/getstarted/userinterface)
-- [VSC download link](https://code.visualstudio.com/)
-
-
 ## Web dev
 
 - **Front-end** - HTML, CSS, JS...
 - **Back-end** - PHP, Ruby, Python, Java... JS?
 - **Full stack** - jacks-of-all-trades (master of none?)
 
-
 ## HTML
+
 > Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.
 
 - *markup* vs *markdown*
@@ -109,13 +100,18 @@
 - [W3 - HTML elements](https://www.w3schools.com/html/html_elements.asp)
 - [W3 - HTML attributes](https://www.w3schools.com/html/html_attributes.asp)
 
+### Links
 
-### Linkovi:
-
+- [Atlassian git cheatsheet](https://www.atlassian.com/dam/jcr:e7e22f25-bba2-4ef1-a197-53f46b6df4a5/SWTM-2088_Atlassian-Git-Cheatsheet.pdf)
+- [GitHub git cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [.gitignore intro](https://guide.freecodecamp.org/git/gitignore/)
+- [git download link](https://git-scm.com/downloads)
+- [VSC Cheatsheet](https://code.visualstudio.com/docs/getstarted/userinterface)
+- [VSC download link](https://code.visualstudio.com/)
 - [W3Schools](https://www.w3schools.com/)
 - [developer.mozilla](https://developer.mozilla.org/en-US/)
 
+## Task
 
-## Vježba
 - [HTML-1 repo](https://github.com/Volki312/HTML-1)
 - [HTML-1 invite link](https://classroom.github.com/a/EuUL3-im)
